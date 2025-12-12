@@ -1,1 +1,2 @@
 UST TRAINING
+git fetch
